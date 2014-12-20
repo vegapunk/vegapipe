@@ -12,3 +12,7 @@
 hs_err_pid*
 
 .metadata
+
+.recommenders
+vegapipe/.project
+vegapipe/.settings
